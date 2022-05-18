@@ -12,29 +12,29 @@
 
 训练样本1: 
 
-<img src="C:\Users\skydownacai\Desktop\学业\神经网络与深度学习\期中\img\img1.png" alt="img1" style="zoom:200%;" />
+<img src="img/img1.png" alt="img1" style="zoom:200%;" />
 
 训练样本2: 
 
-<img src="C:\Users\skydownacai\Desktop\学业\神经网络与深度学习\期中\img\img2.png" alt="img1" style="zoom:200%;" />
+<img src="img/img2.png" alt="img1" style="zoom:200%;" />
 
 训练样本3: 
 
-<img src="C:\Users\skydownacai\Desktop\学业\神经网络与深度学习\期中\img\img3.png" alt="img1" style="zoom:200%;" />
+<img src="img/img3.png" alt="img1" style="zoom:200%;" />
 
 ### 2. cutout
 
 训练样本1: 
 
-<img src="C:\Users\skydownacai\Desktop\学业\神经网络与深度学习\期中\img\cutimg1.png" alt="img1" style="zoom:200%;" />
+<img src="img\cutimg1.png" alt="img1" style="zoom:200%;" />
 
 训练样本2: 
 
-<img src="C:\Users\skydownacai\Desktop\学业\神经网络与深度学习\期中\img\cutimg2.png" alt="img1" style="zoom:200%;" />
+<img src="img\cutimg2.png" alt="img1" style="zoom:200%;" />
 
 训练样本3: 
 
-<img src="C:\Users\skydownacai\Desktop\学业\神经网络与深度学习\期中\img\cutimg3.png" alt="img1" style="zoom:200%;" />
+<img src="img\cutimg3.png" alt="img1" style="zoom:200%;" />
 
 ### 3. Mixup
 
@@ -42,15 +42,15 @@
 
 训练样本1: 
 
-<img src="C:\Users\skydownacai\Desktop\学业\神经网络与深度学习\期中\img\mixed_img1.png" alt="img1" style="zoom:200%;" />
+<img src="img\mixed_img1.png" alt="img1" style="zoom:200%;" />
 
 训练样本2: 
 
-<img src="C:\Users\skydownacai\Desktop\学业\神经网络与深度学习\期中\img\mixed_img2.png" alt="img1" style="zoom:200%;" />
+<img src="img\mixed_img2.png" alt="img1" style="zoom:200%;" />
 
 训练样本3: 
 
-<img src="C:\Users\skydownacai\Desktop\学业\神经网络与深度学习\期中\img\mixed_img3.png" alt="img1" style="zoom:200%;" />
+<img src="img\mixed_img3.png" alt="img1" style="zoom:200%;" />
 
 ### 4. Cutmix
 
@@ -58,15 +58,15 @@
 
 训练样本1: 
 
-<img src="C:\Users\skydownacai\Desktop\学业\神经网络与深度学习\期中\img\cutmix_img1.png" alt="img1" style="zoom:200%;" />
+<img src="img\cutmix_img1.png" alt="img1" style="zoom:200%;" />
 
 训练样本2: 
 
-<img src="C:\Users\skydownacai\Desktop\学业\神经网络与深度学习\期中\img\cutmix_img2.png" alt="img1" style="zoom:200%;" />
+<img src="img\cutmix_img2.png" alt="img1" style="zoom:200%;" />
 
 训练样本3: 
 
-<img src="C:\Users\skydownacai\Desktop\学业\神经网络与深度学习\期中\img\cutmix_img3.png" alt="img1" style="zoom:200%;" />
+<img src="img\cutmix_img3.png" alt="img1" style="zoom:200%;" />
 
 
 
