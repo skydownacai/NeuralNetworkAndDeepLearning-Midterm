@@ -138,7 +138,7 @@ $\operatorname{box\_loss}(\text { object }) =\lambda_{\text {coord }} \sum_{i=0}
  \operatorname{cls\_loss}(\text { object }) =-\sum_{i=0}^{K \times K} I_{i j}^{o b j} \sum_{c \in c l a s s}\left[\hat{p}_{i}(c) \log \left(p_{i}(c)\right)+\left(1-\hat{p}_{i}(c)\right) \log \left(1-p_{i}(c)\right)\right].$
 ## 运行结果
 ### Faster R-CNN：训练、测试loss曲线以及测试mAP曲线
-![pic_9](img/pic_9.jpg)
+![pic_9](img/pic_9.png)
 ![pic_10](img/pic_10.png)
 
 ### YOLOv3：训练、测试的3部分loss曲线及测试mAP曲线（含precison和recall曲线）
